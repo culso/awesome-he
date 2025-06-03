@@ -87,7 +87,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) - A privacy-preserving framework based on TensorFlow.
 - [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - Bridge between TensorFlow and the [Microsoft SEAL](#SEAL) library.
 - [Zama's Hugging Face spaces](https://huggingface.co/zama-fhe) - Demo apps showing the power of FHE for real-world use cases.
-- [Private polls (demo)](https://www.cryptool.org/en/cto/he-poll/) - Browser-based demo app using [node-seal](#node-seal) to conduct a poll with HE
+- [Private polls (demo)](https://www.cryptool.org/en/cto/he-poll/) - Browser-based demo app using [node-seal](#node-seal) to conduct a poll with HE.
 
 ## Databases
 
