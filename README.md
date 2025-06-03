@@ -36,7 +36,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [LightPHE](https://github.com/serengil/LightPHE) - A Python wrapping Partially HE library (RSA, ElGamal, Paillier, Damgard-Jurik, Benaloh, and more).
 - <a name="SEAL">[Microsoft SEAL](https://github.com/microsoft/SEAL) - C++ FHE library implementing BFV and CKKS schemes.</a>
 - [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library specialized on power-of-two polynomials.
-- [node-seal](https://github.com/morfix-io/node-seal) - JavaScript/WebAssembly port of [Microsoft SEAL](#SEAL).
+- <a name="node-seal">[node-seal](https://github.com/morfix-io/node-seal) - JavaScript/WebAssembly port of [Microsoft SEAL](#SEAL).
 - [NuFHE](https://github.com/nucypher/nufhe) - GPU-accelerated HE library, faster than cuFHE, that implements the [tfhe](#tfhe) algorithms.
 - <a name="OpenFHE">[OpenFHE](https://github.com/openfheorg/openfhe-development) - C++ FHE library implementing all major schemes along with bootstrapping and scheme switching.
 - <a name="OpenFHE-Python">[OpenFHE-Python](https://github.com/openfheorg/openfhe-python) - Python wrapper for [OpenFHE](#OpenFHE).
