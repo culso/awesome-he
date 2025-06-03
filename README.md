@@ -59,7 +59,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [AWS HE toolkit](https://github.com/awslabs/homomorphic-implementors-toolkit) - Simplifies the process of designing circuits for the CKKS scheme.
 - [Cingulata](https://github.com/CEA-LIST/Cingulata) - Compiler toolchain and RTE for running C++ programs over encrypted data.
 - [Concrete](https://github.com/zama-ai/concrete) - TFHE compiler for converting Python programs into FHE equivalents.
-- [Concrete-ML](https://github.com/zama-ai/concrete-ml) - Python-based toolkit for data scientists w/o prior FHE knowledge (using sklearn, pyTorch, XGBoost models). 
+- [Concrete-ML](https://github.com/zama-ai/concrete-ml) - Python-based toolkit for data scientists w/o prior FHE knowledge (using sklearn, pyTorch, XGBoost models).
 - [E3](https://github.com/momalab/e3) - Encrypt-Everything-Everywhere framework for compiling C++ programs with encrypted operands.
 - [EVA](https://github.com/microsoft/EVA) - A compiler and optimizer for the CKKS scheme (targeting [Microsoft SEAL](#SEAL)).
 - [Google's FHE Repository](https://github.com/google/fully-homomorphic-encryption) - A compiler that converts a subset of C++ programs into FHE circuits implemented in various backend libraries (superseded by [HEIR](#HEIR)).
@@ -87,6 +87,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) - A privacy-preserving framework based on TensorFlow.
 - [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - Bridge between TensorFlow and the [Microsoft SEAL](#SEAL) library.
 - [Zama's Hugging Face spaces](https://huggingface.co/zama-fhe) - Demo apps showing the power of FHE for real-world use cases.
+- [Private polls (demo)](https://www.cryptool.org/en/cto/he-poll/) - Browser-based demo app using [node-seal](#node-seal) to conduct a poll with HE
 
 ## Databases
 
